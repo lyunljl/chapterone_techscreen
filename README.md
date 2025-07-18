@@ -34,7 +34,7 @@ A very simple Task Manager app built with React Native and Expo SDK 53.
 
 4. Start the development server:
    ```bash
-   npm start
+   npx expo start
    ```
 
 5. Run the app on:
